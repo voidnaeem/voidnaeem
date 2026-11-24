@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naeem Awan</h1>
-<h3 align="center">🚀 MERN Stack Developer | Aspiring Full Stack Developer</h3>
+<h3 align="center">&lt;/&gt; MERN Stack Developer | Aspiring Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;MongoDB+%7C+Express+%7C+React+%7C+Node.js;Building+Projects+%26+Improving+Daily;Future+Full+Stack+Developer" />
