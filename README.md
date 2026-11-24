@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Naeem Awan</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/%3C%2F%3E-MERN%20Stack%20Developer-00F7FF?style=for-the-badge" alt="MERN Stack Developer" />
-</p>
-<p align="center">Aspiring Full Stack Developer</p>
+<h3 align="center"><code>&lt;/&gt;</code> MERN Stack Developer | Aspiring Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;MongoDB+%7C+Express+%7C+React+%7C+Node.js;Building+Projects+%26+Improving+Daily;Future+Full+Stack+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=22&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;MongoDB+%7C+Express+%7C+React+%7C+Node.js;Building+Projects+%26+Improving+Daily" />
 </p>
 
 ---
